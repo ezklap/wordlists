@@ -1,2 +1,2 @@
 # wordlists
-Custom Wordlists I worked on to help during pentesting.
+Wordlists for brute forcing passwords and web URL's
